@@ -23,8 +23,12 @@ int main() {
 		cout << "Try again...." << endl;
 		cin >> age;
 	}
-
-	cout << "Your name is " << name << " and you are " << age << " years old." << endl;
+	if (age < 25) {
+		cout << "Hello " << name << ", you are already " << age << " years old." << endl;
+	}
+	else {
+		cout << "Hello " << name << ", you are very wise for your age" << endl;
+	}
 
 	cout << "Press enter to continue." << endl;
 	cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
