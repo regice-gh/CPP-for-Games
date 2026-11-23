@@ -24,6 +24,9 @@ int main() {
 		cin >> age;
 	}
 	if (age < 25) {
+		cout << "Hello " << name << ", you are only " << age << " years old." << endl;
+	}
+	else if (age < 50) {
 		cout << "Hello " << name << ", you are already " << age << " years old." << endl;
 	}
 	else {
