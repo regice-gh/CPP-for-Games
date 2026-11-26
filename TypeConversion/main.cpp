@@ -23,11 +23,23 @@ int main() {
 	char c = static_cast<char>(i);
 	bool b = static_cast<bool>(c);
 
+	char cha = '!';
+	i = cha;
+
+	auto v = 3.14f + 7;
+
+	char charFive{ '5' };
+	int intFive = static_cast<int>(charFive) - 48;
+
 	std::cout << "double: " << d << std::endl;
 	std::cout << "float: " << f << std::endl;
 	std::cout << "int: " << i << std::endl;
 	std::cout << "char: " << c << std::endl;
 	std::cout << "bool: " << b << std::endl;
+	std::cout << std::endl;
+	std::cout << "int five: " << intFive << std::endl;
+	std::cout << "char five: " << charFive << std::endl;
+
 
 	return 0;
 
