@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="../auto/auto.vcxproj" Id="887db7fb-baaf-4fc4-9e23-952492eb6789" />
+  <Project Path="../calculator/calculator.vcxproj" Id="d0555cd7-a967-47d4-ae5d-ef9cc93376e7" />
   <Project Path="../Enum/Enum.vcxproj" Id="b54bc280-50b0-4728-9422-0c9eb943cab1" />
   <Project Path="../File IO/File IO.vcxproj" Id="9311b53c-7bc6-4bf3-b8f4-440f4a5d9c3f" />
   <Project Path="../integrals/integrals.vcxproj" Id="acbf0d21-0ffb-4466-9b7a-a299cdec5a6b" />
