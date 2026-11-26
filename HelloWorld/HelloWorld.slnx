@@ -8,5 +8,6 @@
   <Project Path="../File IO/File IO.vcxproj" Id="9311b53c-7bc6-4bf3-b8f4-440f4a5d9c3f" />
   <Project Path="../integrals/integrals.vcxproj" Id="acbf0d21-0ffb-4466-9b7a-a299cdec5a6b" />
   <Project Path="../IO/IO.vcxproj" Id="5d557a26-530d-410b-9fc3-eaa28bf87054" />
+  <Project Path="../TypeConversion/TypeConversion.vcxproj" Id="06001eb0-663d-451d-82e8-fa05b87a9ae7" />
   <Project Path="HelloWorld.vcxproj" Id="944ac87b-c29f-4348-9f7c-7976bbe19ee6" />
 </Solution>
